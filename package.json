@@ -1,9 +1,9 @@
 {
   "name": "gatsby-starter-personality",
   "private": true,
-  "description": "A free responsive gatsby starter",
+  "description": "Portfolio site",
   "version": "0.1.0",
-  "author": "Matheus Quintaes @matheusquintaes",
+  "author": "Artz",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.7",
     "gatsby": "^2.19.7",

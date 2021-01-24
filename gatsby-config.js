@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter | Personality`,
-    description: `A free resposive Gatsby Starter`,
-    author: `@matheusquintaes`,
+    title: `  | Portfolio`,
+    description: `portfolio site`,
+    author: `@artz`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,
